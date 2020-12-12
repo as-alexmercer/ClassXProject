@@ -20,4 +20,4 @@ public class Project_Program_4 {
         else
             System.out.println("Input a positive number.");
     }
- }
+}
